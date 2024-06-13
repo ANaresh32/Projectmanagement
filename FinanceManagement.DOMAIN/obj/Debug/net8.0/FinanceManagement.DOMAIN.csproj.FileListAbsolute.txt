@@ -1,0 +1,14 @@
+D:\APIs 8.0\FinanceManagement\FinanceManagement.DOMAIN\bin\Debug\net8.0\FinanceManagement.DOMAIN.deps.json
+D:\APIs 8.0\FinanceManagement\FinanceManagement.DOMAIN\bin\Debug\net8.0\FinanceManagement.DOMAIN.dll
+D:\APIs 8.0\FinanceManagement\FinanceManagement.DOMAIN\bin\Debug\net8.0\FinanceManagement.DOMAIN.pdb
+D:\APIs 8.0\FinanceManagement\FinanceManagement.DOMAIN\obj\Debug\net8.0\FinanceManagement.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIs 8.0\FinanceManagement\FinanceManagement.DOMAIN\obj\Debug\net8.0\FinanceManagement.DOMAIN.AssemblyInfoInputs.cache
+D:\APIs 8.0\FinanceManagement\FinanceManagement.DOMAIN\obj\Debug\net8.0\FinanceManagement.DOMAIN.AssemblyInfo.cs
+D:\APIs 8.0\FinanceManagement\FinanceManagement.DOMAIN\obj\Debug\net8.0\FinanceManagement.DOMAIN.csproj.CoreCompileInputs.cache
+D:\APIs 8.0\FinanceManagement\FinanceManagement.DOMAIN\obj\Debug\net8.0\FinanceManagement.DOMAIN.dll
+D:\APIs 8.0\FinanceManagement\FinanceManagement.DOMAIN\obj\Debug\net8.0\refint\FinanceManagement.DOMAIN.dll
+D:\APIs 8.0\FinanceManagement\FinanceManagement.DOMAIN\obj\Debug\net8.0\FinanceManagement.DOMAIN.pdb
+D:\APIs 8.0\FinanceManagement\FinanceManagement.DOMAIN\obj\Debug\net8.0\ref\FinanceManagement.DOMAIN.dll
+D:\APIs 8.0\FinanceManagement\FinanceManagement.DOMAIN\bin\Debug\net8.0\FinanceManagement.DOMAIN.runtimeconfig.json
+D:\APIs 8.0\FinanceManagement\FinanceManagement.DOMAIN\obj\Debug\net8.0\FinanceManagement.DOMAIN.csproj.AssemblyReference.cache
+D:\APIs 8.0\FinanceManagement\FinanceManagement.DOMAIN\obj\Debug\net8.0\FinanceManagement.DOMAIN.genruntimeconfig.cache
